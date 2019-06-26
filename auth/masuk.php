@@ -8,7 +8,7 @@
  * @author Rezky Maulana <rezkyforce@gmail.com> <081363072949>
  * @version BETA v0.1
  * @copyright Navaluzer Group Inc.
- * 
+ * @SMM PANEL PULSA
  * 
  * 
   */
